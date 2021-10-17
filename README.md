@@ -3,7 +3,7 @@
 </p>
 
 # Mercival Pontes Júnior
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Analyst*</sub>
 
 Profissional graduando em Análise e Desenvolvimento de Sistemas, com MBA em Logística, graduado em Administração, com experiência na área de Análise de Dados, atuando em empresas estaduais de grande porte. 
 
@@ -20,7 +20,7 @@ Atuação com processos de ETL, Python e Power BI.
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise de Dados Airbnb - Lisboa:** https://bit.ly/3paVKAV
 
 Lista de projetos em Power BI:
 
