@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="topo.png" >
+  <img src="topo-git.png" >
 </p>
 
 # Mercival Pontes Júnior
