@@ -24,7 +24,7 @@ Lista de projetos em Jupyter Notebook:
 
 Lista de projetos em Power BI:
 
-* **Dashboard Financeiro:** https://bit.ly/30A2JJz
+* **Dashboard Financeiro (DRE):** https://bit.ly/30A2JJz
 * **Dashboard Análise de Receita e Fluxo de Caixa:** https://bit.ly/3AUnxrr
 * **Dashboard de Compras:** https://bit.ly/3lOCOWz
 * **Revenue & Margin Analysis:** https://bit.ly/3APccJp
